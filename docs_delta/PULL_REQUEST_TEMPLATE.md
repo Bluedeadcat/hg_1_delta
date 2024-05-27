@@ -1,8 +1,11 @@
-# Tipo de usuario
-- [ GUSTAVO ] Alfa
-- [ ANDRES ] Bravo 
-- [ EDWUARD ] Charlie
+# Nombre de usuario
+- [ ] Alfa
+- [ ] Bravo 
+- [ ] Charlie
 - [ ALONA ] Delta
 
 # Seleccione el tipo de actividad
-- [ X ] Feature
+- [ ] Feature
+- [ ] Hotfix
+- [ ] Refactor
+- [ ALONA ] Performance
